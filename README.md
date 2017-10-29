@@ -1,2 +1,2 @@
 # ANDI
-This arduino-code is used as a beat generator that plays sound clips from an SD-card to create a rhythm.
+This arduino-code is used as a beat generator that plays sound clips from an SD-card randomly to create a rhythm.
